@@ -1,0 +1,14 @@
+[
+    {
+        "SubscriptionName": "sub-p-xxx-01",
+        "CreateServiceConnection": "true",
+        "OrgName": "xxxxx",
+        "ProjectName": "xxxxx"
+    },
+    {
+        "SubscriptionName": "sub-p-xxx-02",
+        "CreateServiceConnection": "true",
+        "OrgName": "xxxxxxxx",
+        "ProjectName": "xxxxx"
+    }
+]
