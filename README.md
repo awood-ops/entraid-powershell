@@ -1,4 +1,4 @@
-# New-DAPWorkloadIdentity.ps1
+# New-WorkloadIdentity.ps1
 
 ## Overview
 
